@@ -1,0 +1,29 @@
+{
+  "name": "quantum-entanglement-sockets",
+  "version": "1.0.2",
+  "description": "Simplify WebSocket communication with quantum computing concepts for fun.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "quantum",
+    "entanglement",
+    "websockets",
+    "real-time",
+    "communication"
+  ],
+  "author": "Finnegan Dale",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.4.6",
+    "quantum-cryptography": "^1.0.0",
+    "eventemitter3": "^4.0.7",
+    "uuid": "^8.3.2",
+    "rxjs": "^6.6.7"
+  }
+}
